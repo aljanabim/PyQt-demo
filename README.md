@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Make sure to have the following indstalled
+Make sure to have the following installed
 
 -   PyQt 5
 -   PyQt 5 Designer
@@ -10,7 +10,7 @@ Make sure to have the following indstalled
 
 ## Editing the _layout_
 
-To edit the interface, open `layout.ui` in **Qt 5 Designer**. Once all the changes are done, run the following command
+To edit the interface, open `layout.ui` in **Qt 5 Designer**. Once all the changes are saved, run the following command
 
 ```bash
 pyuic5 -x layout.ui -o layout.py
